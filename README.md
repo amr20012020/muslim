@@ -1,16 +1,10 @@
 # muslim
 
-A new Flutter project.
+New Quran App ... Thank you my friend to see my project ... please support
 
-## Getting Started
+![prayer](https://github.com/amr20012020/muslim/assets/63152787/9179c5c8-e53a-4863-93b6-a88a532ca6d1)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230528_200526](https://github.com/amr20012020/muslim/assets/63152787/9c6b47ef-1949-4a06-91c6-939811a5d99a)
+![Screenshot_20230528_200532](https://github.com/amr20012020/muslim/assets/63152787/0ab25a42-85df-4802-8044-2f38d0c8696e)
+![Screenshot_20230528_200547](https://github.com/amr20012020/muslim/assets/63152787/f0c95f73-c732-4e7d-bd2e-3a5468c558f8)
+![Screenshot_20230528_200552](https://github.com/amr20012020/muslim/assets/63152787/38dfe49c-ff7b-4863-a2da-2aeb9a09fbb8)
